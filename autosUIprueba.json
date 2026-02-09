@@ -1,0 +1,64 @@
+{
+  "AUTOS": {
+    "MASERATI": {
+      "2021": {
+        "LEVANTE": [
+          "5P V6 3.0T TC AWD AUT (CVE: 27)",
+          "S V6 3.0T TC AWD AUT (CVE: 28)"
+        ],
+        "QUATTROPORTE": [
+          "V6 3.0L R19 AUT (CVE: 46)"
+        ]
+      },
+      "2020": {
+        "LEVANTE": [
+          "5P V6 3.0T TC AWD AUT (CVE: 27)"
+        ]
+      }
+    },
+    "MG": {
+      "2025": {
+        "ZS": [
+          "ELEGANCE 5P L4 1.5L BA ABS AC AUT. (CVE: 29998)"
+        ]
+      },
+      "2024": {
+        "ZS": [
+          "ELEGANCE 5P L4 1.5L BA ABS AC AUT. (CVE: 29998)"
+        ]
+      }
+    }
+  },
+  "PICKUPS-PART": {
+    "DODGE": {
+      "1993": {
+        "D-100": [
+          "PICK-UP CUSTOM STD. (CVE: 50020)"
+        ]
+      }
+    },
+    "CHRYSLER": {
+      "2026": {
+        "RAM 1500": [
+          "TRADESMAN 4P L6 3.0T AUT. (CVE: 59276)"
+        ]
+      }
+    }
+  },
+  "MOTOS": {
+    "KTM": {
+      "2024": {
+        "300": [
+          "XC TPI 293CC STD. (CVE: 70997)"
+        ]
+      }
+    },
+    "APRILIA": {
+      "2007": {
+        "ARRECIFE": [
+          "250 SCOOTER 244CC STD. (CVE: 65001)"
+        ]
+      }
+    }
+  }
+}
